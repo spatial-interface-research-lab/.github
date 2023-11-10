@@ -1,2 +1,2 @@
-# Welcome to the Spatial Interface Research Lab
-We are a cutting-edge research lab, focusing on emerging interfaces and their geospatial applications. 
+# .github
+This is the repo containing the profile/README.md that will be the public profile of the GitHub organization. 
